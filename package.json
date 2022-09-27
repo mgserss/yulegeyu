@@ -4,7 +4,7 @@
   "version": "0.0.0",
   "scripts": {
     "dev": "vite",
-    "build": "vue-tsc --noEmit && vite build",
+    "build": "vue-tsc --noEmit && vite build --base=/yulegeyu/",
     "preview": "vite preview"
   },
   "homepage": "https://mgserss.github.io/yulegeyu",
