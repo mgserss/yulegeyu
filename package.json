@@ -7,6 +7,7 @@
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview"
   },
+  "homepage": "https://mgserss.github.io/yulegeyu",
   "dependencies": {
     "@ant-design/icons-vue": "^6.1.0",
     "ant-design-vue": "^3.2.11",
