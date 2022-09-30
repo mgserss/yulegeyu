@@ -1,5 +1,7 @@
 # 鱼了个鱼
 
+[![pages-build-deployment](https://github.com/mgserss/yulegeyu/actions/workflows/pages/pages-build-deployment/badge.svg?branch=gh-pages)](https://github.com/mgserss/yulegeyu/actions/workflows/pages/pages-build-deployment)
+
 > 被羊了个羊虐了百遍后，我自己做了一个！
 
 在线体验：https://yulegeyu.cn
