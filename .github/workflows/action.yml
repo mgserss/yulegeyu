@@ -15,7 +15,7 @@ jobs:
     - name: Install and build
       run: |
         npm install
-        npm run build
+        npm run pBuild
 
     - name: Deploy
       uses: JamesIves/github-pages-deploy-action@releases/v4
