@@ -6,7 +6,7 @@
     "dev": "vite",
     "build": "vue-tsc --noEmit && vite build",
     "preview": "vite preview",
-    "start": "npx http-server -P http://0.0.0.0:${PORT} ./dist"
+    "start": "npx http-server -P http://0.0.0.0:${PORT} ./dist --base=/yulegeyu/"
   },
   "homepage": "https://mgserss.github.io/yulegeyu",
   "dependencies": {
